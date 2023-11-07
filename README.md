@@ -38,6 +38,3 @@ Yeni özellikler eklemek veya hata düzeltmeleri yapmak isterseniz, aşağıdaki
 
 4. Pull request oluşturun.
 
-## Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
